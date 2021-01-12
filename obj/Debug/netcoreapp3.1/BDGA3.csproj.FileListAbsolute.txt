@@ -1,0 +1,4 @@
+C:\Users\maxde\source\repos\BDGA3\obj\Debug\netcoreapp3.1\BDGA3.csprojAssemblyReference.cache
+C:\Users\maxde\source\repos\BDGA3\obj\Debug\netcoreapp3.1\BDGA3.AssemblyInfoInputs.cache
+C:\Users\maxde\source\repos\BDGA3\obj\Debug\netcoreapp3.1\BDGA3.AssemblyInfo.cs
+C:\Users\maxde\source\repos\BDGA3\obj\Debug\netcoreapp3.1\BDGA3.csproj.CoreCompileInputs.cache
